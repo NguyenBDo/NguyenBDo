@@ -2,7 +2,7 @@
 - I'm currently studying at Rotterdam University of Applied Science (Hogeschool Rotterdam) in the Netherlands.
 - I'm interested in exploring new possibilities in the tech.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,pyhton,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,cpp,python,mysql)](https://skillicons.dev)
 
 <!---
 NguyenBDo/NguyenBDo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
